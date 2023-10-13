@@ -148,7 +148,3 @@ resource "aws_instance" "privmachine" {
 
 
 
-
-
-
-
