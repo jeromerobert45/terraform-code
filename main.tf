@@ -138,6 +138,3 @@ resource "aws_instance" "privmachine" {
     subnet_id = aws_subnet.privsub.id
     vpc_security_group_ids = [aws_security_group.allow_all.id]
 }
-
-
-delete
