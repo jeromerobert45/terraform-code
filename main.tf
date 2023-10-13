@@ -141,10 +141,7 @@ resource "aws_instance" "privmachine" {
 
 
 
-
-
-
-
+delete this
 
 
 
